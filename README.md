@@ -2,7 +2,8 @@
 tomcat源码
 
 
-# 需要根据实际情况在run configuration中添加启动参数指定配置路径
+# 注意事项
+(1).需要根据实际情况在run configuration中添加启动参数指定配置路径
 -Dcatalina.home=D:/MyWork/apache-tomcat-8.5.50-src/source
 -Dcatalina.base=D:/MyWork/apache-tomcat-8.5.50-src/source
 -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
